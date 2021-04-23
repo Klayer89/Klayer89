@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klayer89
 - 👀 I’m interested in localisation and computer science
-- 🌱 I’m currently learning C and I have an headache
+- 🌱 I’m currently learning C and I have a headache
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
